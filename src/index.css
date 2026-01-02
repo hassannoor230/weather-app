@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.background{
+    background-image: linear-gradient(65deg, #800080, #000080);
+    padding: 15px;
+}
+.relative{
+    padding: 1em;
+}
